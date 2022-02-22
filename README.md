@@ -1,3 +1,5 @@
+             ~~ Sobre Mim ~~
+
 -  Olá, me chamo Emanuel Bohrer!
 -  Tenho grande interesse na área de Desenvolvimento de Software.
 -  Atualmente, cursando Desenvolvimento de Sistemas no SENAI.

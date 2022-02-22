@@ -1,4 +1,4 @@
-             ~~ Sobre Mim ~~
+                    ~~ Sobre Mim ~~
 
 -  Olá, me chamo Emanuel Bohrer!
 -  Tenho grande interesse na área de Desenvolvimento de Software.

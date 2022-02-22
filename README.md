@@ -1,5 +1,5 @@
                     ~~ Sobre Mim ~~
-
+________________________________________________________________________________________
 -  Olá, me chamo Emanuel Bohrer!
 -  Tenho grande interesse na área de Desenvolvimento de Software.
 -  Atualmente, cursando Desenvolvimento de Sistemas no SENAI.
@@ -8,7 +8,7 @@
  ________________________________________________________________________________________
  
                       ~~   Matérias Curriculares  ~~ 
-                        
+ ________________________________________________________________________________________                       
 - Lógica de Programação 160h - Concluído ✔️
 - Comunicação Oral Escrita 60h - Concluído ✔️
 - Fundamentos da Técnica da Informação 40h - Concluído ✔️
@@ -20,6 +20,6 @@
 - Manutenção de Sistemas 30h - Cursando ⏱️
 - Modelagem de Sistemas 80h - Cursando ⏱️
 - Teste de Sistemas 60h - Cursando ⏱️
- 
+ ________________________________________________________________________________________
 
 

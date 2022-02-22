@@ -5,7 +5,7 @@
 -  Linkedin para contato : https://www.linkedin.com/in/emanuel-bohrer-008b1b1a2/
  ________________________________________________________________________________________
  
-                        Cursando 
+                      ~~   Matérias Curriculares  ~~ 
                         
 - Lógica de Programação 160h /Concluído
 - Comunicação Oral Escrita 60h /Concluído

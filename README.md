@@ -1,4 +1,4 @@
-                    ~~ Sobre Mim ~~
+                       ~~ Sobre Mim ~~
 ________________________________________________________________________________________
 -  Olá, me chamo Emanuel Bohrer!
 -  Tenho grande interesse na área de Desenvolvimento de Software.
@@ -7,7 +7,7 @@ ________________________________________________________________________________
 -  Linkedin para contato : https://www.linkedin.com/in/emanuel-bohrer-008b1b1a2/
  ________________________________________________________________________________________
  
-                      ~~   Matérias Curriculares  ~~ 
+                        ~~   Matérias Curriculares  ~~ 
  ________________________________________________________________________________________                       
 - Lógica de Programação 160h - Concluído ✔️
 - Comunicação Oral Escrita 60h - Concluído ✔️
@@ -21,5 +21,11 @@ ________________________________________________________________________________
 - Modelagem de Sistemas 80h - Cursando ⏱️
 - Teste de Sistemas 60h - Cursando ⏱️
  ________________________________________________________________________________________
+                        ~~   Git Stats  ~~ 
+ ________________________________________________________________________________________
 
-
+<div align="center">
+  <a href="https://github.com/EmanuelBohrer">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EmanuelBohrer&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmanuelBohrer&layout=compact&langs_count=7&theme=dracula"/>
+</div>

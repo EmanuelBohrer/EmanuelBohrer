@@ -2,7 +2,7 @@
 ________________________________________________________________________________________
 -  Olá, me chamo Emanuel Bohrer!
 -  Tenho grande interesse na área de Desenvolvimento de Software.
--  Atualmente, cursando Desenvolvimento de Sistemas no SENAI.
+-  Atualmente, estou cursando Desenvolvimento de Sistemas no SENAI, e também participando do curso de Java pelo Entra21!
 -  Familiarizado com Python, MySQL, HTML e CSS.
 -  Linkedin para contato : https://www.linkedin.com/in/emanuel-bohrer-008b1b1a2/
  ________________________________________________________________________________________

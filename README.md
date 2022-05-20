@@ -4,6 +4,7 @@ ________________________________________________________________________________
 -  Tenho grande interesse na área de Desenvolvimento de Software.
 -  Atualmente, estou cursando Desenvolvimento de Sistemas no SENAI, e também participando do curso de Java pelo Entra21!
 -  Familiarizado com Python, MySQL, HTML e CSS.
+-  Estudando atualmente a linguagem de Java.
 -  Linkedin para contato : https://www.linkedin.com/in/emanuel-bohrer-008b1b1a2/
  ________________________________________________________________________________________
  

@@ -26,5 +26,5 @@ ________________________________________________________________________________
  ________________________________________________________________________________________
 
 <div align="center">
-[![Emanuel GitHub stats](https://github-readme-stats.vercel.app/api?username=emanuelbohrer)](https://github.com/emanuelbohrer/github-readme-stats)
+[![Emanuel GitHub stats](https://github-readme-stats.vercel.app/api?username=EmanuelBohrer)](https://github.com/EmanuelBohrer/github-readme-stats)
 </div>

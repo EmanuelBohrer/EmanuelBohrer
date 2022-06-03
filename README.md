@@ -26,6 +26,6 @@ ________________________________________________________________________________
  ________________________________________________________________________________________
  
  <a href="https://github.com/EmanuelBohrer">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EmanuelBohrer&show_icons=true&theme=Tokyonight
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EmanuelBohrer&show_icons=true&theme=Dracula
   &include_all_commits=true&count_private=true"/>
  

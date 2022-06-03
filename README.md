@@ -26,6 +26,6 @@ ________________________________________________________________________________
  ________________________________________________________________________________________
 
 <div align="center">
-<img src="https://camo.githubusercontent.com/dff428f69f9764a08d12197709a4f3674110db208cdd495a5e852dd48f9c4abc/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d69757269636f6465267468656d653d64656661756c74" alt="emanuelbohrer" data-canonical-src="https://github-readme-stats.vercel.app/api?username=iuricode&amp;theme=tokyonight" style="max-width: 100%;">
+<img src="https://camo.githubusercontent.com/dff428f69f9764a08d12197709a4f3674110db208cdd495a5e852dd48f9c4abc/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d69757269636f6465267468656d653d64656661756c74" alt="emanuelbohrer" data-canonical-src="https://github-readme-stats.vercel.app/api?username=emanuelbohrer&amp;theme=tokyonight" style="max-width: 100%;">
 
 </div>

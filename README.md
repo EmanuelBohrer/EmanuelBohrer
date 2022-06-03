@@ -25,6 +25,6 @@ ________________________________________________________________________________
                         ~~   Git Stats  ~~ 
  ________________________________________________________________________________________
 
-<div align="center">
-[![Emanuel GitHub stats](https://github-readme-stats.vercel.app/api?username=EmanuelBohrer)](https://github.com/EmanuelBohrer/github-readme-stats)
-</div>
+<details>
+  [![Emanuel Bohrer's GitHub stats](https://github-readme-stats.vercel.app/api?username=emanuelbohrer&showicons=true&theme=tokyonight)]   
+  

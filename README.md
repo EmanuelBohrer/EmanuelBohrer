@@ -25,6 +25,9 @@ ________________________________________________________________________________
                         ~~   Git Stats  ~~ 
  ________________________________________________________________________________________
  
- ![Emanuel Bohrer's GitHub stats](https://github-readme-stats.vercel.app/api?username=emanuelbohrer&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emanuelbohrer&layout=compact&theme=tokyonight)]
-
+ <div>
+ <a href="https://github.com/EmanuelBohrer">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EmanuelBohrer&show_icons=true&theme=Tokyonight
+  &include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmanuelBohrer&layout=compact&langs_count=7&theme=dracula"/>
+   </div>

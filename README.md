@@ -2,7 +2,7 @@
 ________________________________________________________________________________________
 -  Olá, me chamo Emanuel Bohrer!
 -  Tenho grande interesse na área de Desenvolvimento de Software.
--  Finalizando o curso Desenvolvimento de Sistemas pelo SENAI (Blumenau, SC). 
+-  Técnico pelo SENAI no curso Desenvolvimento de Sistemas. (Blumenau, SC). 
 -  Participando do curso de Java pelo Entra21.
 -  Conhecimento em Python, MySQL, PHP HTML e CSS.
 -  Linkedin para contato : https://www.linkedin.com/in/emanuel-bohrer-008b1b1a2/

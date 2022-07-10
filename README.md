@@ -7,24 +7,6 @@ ________________________________________________________________________________
 -  Conhecimento em Python, MySQL, PHP HTML e CSS.
 -  Linkedin para contato : https://www.linkedin.com/in/emanuel-bohrer-008b1b1a2/
  ________________________________________________________________________________________
- 
-                ~~   Disciplinas do Curso (SENAI)   ~~  
- ________________________________________________________________________________________ 
- 
-- Lógica de Programação 160h - Concluído ✔️
-- Comunicação Oral Escrita 60h - Concluído ✔️
-- Fundamentos da Técnica da Informação 40h - Concluído ✔️
-- Informática Aplicada 80h - Concluído ✔️
-- Banco de Dados (MySQL) 140h - Concluído ✔️
-- Programação de Aplicativos (Orientações objetos com Python) 160h - Concluído ✔️
-- Teste de Sistemas 60h - Concluído ✔️
-- Implantação de Sistemas 30h - Concluído ✔️
-- Modelagem de Sistemas 80h - Concluído ✔️
-
-
-- Desenvolvimento de Sistema 160h - Cursando ⏱️
-- Manutenção de Sistemas 30h - Cursando ⏱️
-
   
  ________________________________________________________________________________________
  

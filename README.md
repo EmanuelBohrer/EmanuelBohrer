@@ -5,10 +5,13 @@ Olá! Me chamo Emanuel Bohrer e sempre estou em busca de novos desafios e oportu
 ### 📌 Formação e Certificações
 - Técnico em **Desenvolvimento de Sistemas** pelo **SENAI** (Blumenau, SC)
 - Certificado em **Java** pelo **Entra21**
+- PCAP: Programming Essentials in Python pela **CISCO**
+
+
 
 ### 📌 Habilidades
-- **Linguagens:** Java, Python, PHP, HTML, CSS
-- **Banco de Dados:** MySQL
+- **Linguagens:** Java, Python, PHP, HTML, CSS, Angular
+- **Banco de Dados:** MySQL, PostgreSQL
 - Sempre buscando aprender mais sobre **back-end** e **estruturas de dados**
 
 📩 **Contato**: [LinkedIn](https://www.linkedin.com/in/emanuel-bohrer-008b1b1a2/)

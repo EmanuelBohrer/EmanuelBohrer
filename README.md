@@ -18,6 +18,16 @@ Olá! Me chamo Emanuel Bohrer e sempre estou em busca de novos desafios e oportu
 
 ---
 
+# 📌 Projetos Destacados
+
+🔹 **[AppFii](https://github.com/EmanuelBohrer/projeto-entra21-appfii)** - Projeto de conclusão do curso Entra21
+
+🔹 **[POM Updater](https://github.com/EmanuelBohrer/pom-updater)** - Atualizador de POM.XML.
+
+🔹 **[Cine Haus](https://github.com/EmanuelBohrer/CineHaus_V.2)** - Projeto de conclusão de curso do Técnico em desenvolvimento de sistemas.
+
+---
+
 # 📊 GitHub Stats
 
 ![Emanuel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=EmanuelBohrer&show_icons=true&theme=radical)

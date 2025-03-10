@@ -1,28 +1,27 @@
-                   ~~   Sobre Mim   ~~ 
-________________________________________________________________________________________
--  Olá, me chamo Emanuel Bohrer!
--  Tenho grande interesse na área de Desenvolvimento de Software.
--  Técnico pelo SENAI no curso Desenvolvimento de Sistemas. (Blumenau, SC). 
--  Certificado no conhecimento de Java pelo Entra21.
--  Conhecimento em  Java, Python, MySQL, PHP HTML e CSS.
--  Linkedin para contato : https://www.linkedin.com/in/emanuel-bohrer-008b1b1a2/
- ________________________________________________________________________________________
-  
- 
-                        ~~   Git Stats   ~~ 
- ________________________________________________________________________________________
+# 👋 Sobre Mim
 
-<div align="center">
-  <a href="https://github.com/emanuelbohrer">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=emanuelbohrer&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emanuelbohrer&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
+Olá! Me chamo Emanuel Bohrer e sempre estou em busca de novos desafios e oportunidades para aprimorar minhas habilidades técnicas.
 
-  
-<div align="center" style="display: inline_block"><br>
-  <img align="center" alt="Emanuel-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Emanuel-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Emanuel-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Emanuel-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="center" alt="Emanuel-Php" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
-</div>
+### 📌 Formação e Certificações
+- Técnico em **Desenvolvimento de Sistemas** pelo **SENAI** (Blumenau, SC)
+- Certificado em **Java** pelo **Entra21**
+
+### 📌 Habilidades
+- **Linguagens:** Java, Python, PHP, HTML, CSS
+- **Banco de Dados:** MySQL
+- Sempre buscando aprender mais sobre **back-end** e **estruturas de dados**
+
+📩 **Contato**: [LinkedIn](https://www.linkedin.com/in/emanuel-bohrer-008b1b1a2/)
+
+---
+
+# 📊 GitHub Stats
+
+![Emanuel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=EmanuelBohrer&show_icons=true&theme=radical)
+
+### 📌 Principais Tecnologias Utilizadas
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EmanuelBohrer&layout=compact&theme=radical)
+
+---
+
+
